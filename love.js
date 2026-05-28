@@ -50,7 +50,7 @@ function deploy() {
   console.log(`  From: ${troy.name} (${troy.role})`);
   console.log(`  To:   ${naomie.name} (${naomie.superpower})`);
   console.log("  Status: LOVE SUCCESSFULLY DEPLOYED ✅ ");
-  console.log("  Uptime: Forever ♾️                    ");
+  console.log("  Uptime: Forever Yours ♾️                    ");
   console.log("========================================");
 }
 
